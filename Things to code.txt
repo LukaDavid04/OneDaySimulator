@@ -1,0 +1,4 @@
+1. Possible Main Menu
+2. Rain
+3. Play rain on special function
+3. stop rain with special function
