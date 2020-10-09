@@ -7,6 +7,7 @@ import os
 import pygame
 from random import*
 from pygame.locals import*
+import pygame.gfx
 
 os.environ['SDL_VIDEO_WINDOW_POS'] = "%d,%d" % (300,150)
 
